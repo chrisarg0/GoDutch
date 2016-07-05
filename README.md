@@ -21,5 +21,6 @@ Had some trouble implementing the following features:
 Walkthrough of all user stories:
 
 <img src='GoDutchDemo.gif' title='Demo' width='' alt='Demo' />
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
