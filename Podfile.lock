@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (2.0.2)
+  - DesignSystem (2.0.6)
+
+DEPENDENCIES:
+  - Alamofire (= 2.0.2)
+  - DesignSystem
+
+SPEC CHECKSUMS:
+  Alamofire: 8edbab00802a752bb5240cc2abe70e7e881488ad
+  DesignSystem: e6767276d8d1340dd82f43149f4b3f61c9c1694d
+
+PODFILE CHECKSUM: f232d17b30cb87d6aa1eb17e8a5fc756e2d4236c
+
+COCOAPODS: 1.0.1
