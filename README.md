@@ -12,12 +12,13 @@ Completed user stories:
 - Optional: animated the view properties to fade in/out to bring focus to bill amount text input
 - Optional: set the billField as the first responder to maximize efficiency 
  
-
-Notes
-Had some trouble with the following features:
+Had some trouble implementing the following features:
 - overriding the standard clear button with my own image asset
 - adding a comma (when appropriate) when a number exceeds 3 characters
 - setting a default tip value that is not the 0 index
 - begrudgingly had some trouble formatting the LaunchImage
 
 Walkthrough of all user stories:
+
+<img src='GoDutchDemo.gif' title='Demo' width='' alt='Demo' />
+
