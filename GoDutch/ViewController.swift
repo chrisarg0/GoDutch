@@ -30,6 +30,8 @@ class ViewController: UIViewController {
         totalLabel.text = "$0.00"
     }
     
+    let name = "Chris"
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
