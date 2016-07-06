@@ -13,9 +13,9 @@ Completed user stories:
 - Optional: set the billField as the first responder to maximize efficiency 
  
 Had some trouble implementing the following features:
-- overriding the standard clear button with my own image asset
-- adding a comma (when appropriate) when a number exceeds 3 characters
-- setting a default tip value that is not the 0 index
+- overriding the standard clear button with my own image
+- adding a comma when a number exceeds 3 characters
+- setting a default tip value that is not the the 0 index of the segmented control 
 - begrudgingly had some trouble formatting the LaunchImage
 
 Walkthrough of all user stories:
