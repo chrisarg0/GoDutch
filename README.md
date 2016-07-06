@@ -12,7 +12,7 @@ Completed user stories:
 - Optional: animated the view properties to fade in/out to bring focus to bill amount text input
 - Optional: set the billField as the first responder to maximize efficiency 
  
-Had some trouble implementing the following features:
+Had some trouble with these features:
 - overriding the standard clear button with my own image
 - adding a comma when a number exceeds 3 characters
 - setting a default tip value that is not the the 0 index of the segmented control 
