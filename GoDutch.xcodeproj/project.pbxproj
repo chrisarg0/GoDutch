@@ -28,6 +28,7 @@
 		019939821D2C23C8007FBE6C /* SalesforceSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "SalesforceSans-Bold.ttf"; path = "Pods/DesignSystem/SalesforceDesignSystem.bundle/SalesforceSans-Bold.ttf"; sourceTree = "<group>"; };
 		019939831D2C23C8007FBE6C /* en */ = {isa = PBXFileReference; lastKnownFileType = file; name = en; path = "en.lproj/SalesforceSans-Light.ttf"; sourceTree = "<group>"; };
 		019939851D2C23C8007FBE6C /* SalesforceSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "SalesforceSans-Regular.ttf"; path = "Pods/DesignSystem/SalesforceDesignSystem.bundle/SalesforceSans-Regular.ttf"; sourceTree = "<group>"; };
+		01AB04AF1D315BEB00E45665 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 		289515A38BA4367137955A0F /* Pods-GoDutch.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoDutch.release.xcconfig"; path = "Pods/Target Support Files/Pods-GoDutch/Pods-GoDutch.release.xcconfig"; sourceTree = "<group>"; };
 		6AF113C9F2CB17CB5D2983CB /* Pods-GoDutch.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoDutch.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GoDutch/Pods-GoDutch.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -71,6 +72,7 @@
 				01928C761D21E1780031195F /* Assets.xcassets */,
 				01928C781D21E1780031195F /* LaunchScreen.storyboard */,
 				01928C7B1D21E1780031195F /* Info.plist */,
+				01AB04AF1D315BEB00E45665 /* Header.h */,
 			);
 			path = GoDutch;
 			sourceTree = "<group>";
@@ -353,6 +355,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = "";
 				INFOPLIST_FILE = GoDutch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.chrisargo.GoDutch;
@@ -368,6 +371,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = "";
 				INFOPLIST_FILE = GoDutch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.chrisargo.GoDutch;

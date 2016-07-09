@@ -9,31 +9,29 @@
 /* Begin PBXBuildFile section */
 		0075F390CA648F01A1C94C9E402BB142 /* NSString+SLDSIconUtility.m in Sources */ = {isa = PBXBuildFile; fileRef = E0E4A1DF4388921702C768F603A9AAF4 /* NSString+SLDSIconUtility.m */; };
 		0110444780B2EAFE0D6C620DC12782F9 /* UIImage+SLDSIconAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 669D82A836BFDD73BD9412F419497A7C /* UIImage+SLDSIconAction.m */; };
-		019939761D2C15C3007FBE6C /* SalesforceSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 019939781D2C15C3007FBE6C /* SalesforceSans-Light.ttf */; };
+		0212416941DB32D47CCCE97CA1261837 /* License-for-SalesforceSans-font.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8CF8E4D27210FB73A8054488C7C6689F /* License-for-SalesforceSans-font.txt */; };
 		02834A4EAD6C88085440A719C16CD474 /* UIFont+SLDSFont.h in Headers */ = {isa = PBXBuildFile; fileRef = DCD62FC91F2B033F339DDBBCBDF19892 /* UIFont+SLDSFont.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		031E14E76DC41991CF56112E4740CCF0 /* License-for-SalesforceDesignSystemIcons.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0A7A1495EAA1B24808E09D9DB29A6DA6 /* License-for-SalesforceDesignSystemIcons.txt */; };
 		0544DBDF2804C9F58FF95D18DCC8836C /* SLDSIconLabelUtility.h in Headers */ = {isa = PBXBuildFile; fileRef = 680F072E68B08DDDDE29ABBB28C31925 /* SLDSIconLabelUtility.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		06292953A0121887136F7BC199EC92F7 /* UIColor+SLDSInput.h in Headers */ = {isa = PBXBuildFile; fileRef = 27EF25E52C59184673224E8587FCA437 /* UIColor+SLDSInput.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		08B7B4A48BA93ABA5A292B19B3B515B0 /* NSString+SLDSBackground.h in Headers */ = {isa = PBXBuildFile; fileRef = B61CB02EC0195A0EE76D47B5614B0297 /* NSString+SLDSBackground.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0A87E9404CD288F1D9E3DC0053BCF5D9 /* SLDSColorTxt.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D6FF43AFBC276DB7D61D2FC5476822D /* SLDSColorTxt.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0BD8AC25FEF05930EA0EE88E6940099C /* SLDSLineHeight.h in Headers */ = {isa = PBXBuildFile; fileRef = 5607723732D985C8416CA896FADF6E19 /* SLDSLineHeight.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0D0B596606EB2C0AB65A48C994F7CDA8 /* SalesforceDesignSystemIconsUtility.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 09B768B8435BEFC8BC95C39ECCE34978 /* SalesforceDesignSystemIconsUtility.ttf */; };
 		0E70B70BC5634E7D9B2540516D7EA994 /* SLDSColorInpt.m in Sources */ = {isa = PBXBuildFile; fileRef = D30C9E6A25F3DCE3237359B333B9960A /* SLDSColorInpt.m */; };
 		0EFD1FF643346FF85C83679F659672CA /* Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABEBF476F038E7DAF07919C9E17FFA0 /* Stream.swift */; };
 		1305A2212E06494C51FB078F893A5AB8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17E08379A0DC830C1B585DFE85C4E677 /* UIKit.framework */; };
-		13C2B5FA7F71A52AECFDDBBCFED23068 /* License-for-SalesforceDesignSystemIcons.txt in Resources */ = {isa = PBXBuildFile; fileRef = E60CCD6B9CEF6B48AA15A493F081DAF1 /* License-for-SalesforceDesignSystemIcons.txt */; };
 		17F5EAE8B0BA457B06353646CF04A772 /* SLDSColorBg.h in Headers */ = {isa = PBXBuildFile; fileRef = FD5AC8787762D6881C520C92071F0E86 /* SLDSColorBg.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1942343308F2A104A5D14EFDE60D7EB2 /* SLDSColorTxt.m in Sources */ = {isa = PBXBuildFile; fileRef = A7565CAA4750DB6E66899E06776D95C8 /* SLDSColorTxt.m */; };
 		1B80B56CC30810B71DB8FB92470FC050 /* SLDSColorBg.m in Sources */ = {isa = PBXBuildFile; fileRef = 23ADAAE842299832F3FAD05058681CD4 /* SLDSColorBg.m */; };
 		1F55D9AF56DEE153A40E83692B6F8942 /* SLDSColorInpt.h in Headers */ = {isa = PBXBuildFile; fileRef = C148AAFF0CADC779B62E47A2889027C3 /* SLDSColorInpt.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		21D6DAD55BFEC5C3518A390035D26E3A /* License-for-SalesforceSans-font.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C5AC77BDF80CB4A1626479F900FA732 /* License-for-SalesforceSans-font.txt */; };
 		243793C9E63354EC40FD9E109CC136C6 /* SLDSIconLabelUtility.m in Sources */ = {isa = PBXBuildFile; fileRef = 73DC0B0B85DD04B6429FE9F8B7D7A1B9 /* SLDSIconLabelUtility.m */; };
 		2744061ECB778922CA11E610BCACBD9A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36AEF61D43D41269BA24FCD70FB8BE98 /* Foundation.framework */; };
-		28B433CF94373FA1AA6AE25E50065CF1 /* SalesforceDesignSystemIconsAction.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 35C9805AD64BBCC757CD3741537B80F1 /* SalesforceDesignSystemIconsAction.ttf */; };
 		2C0483EC3F7B46C2663C42BAAD9F7F75 /* NSString+SLDSIconStandard.h in Headers */ = {isa = PBXBuildFile; fileRef = 54B0DCFED9B7D485FCB85853EDDBAD7C /* NSString+SLDSIconStandard.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2E6DFFC9F6508E1DB6F224AC93F33D07 /* NSString+SLDSBorder.h in Headers */ = {isa = PBXBuildFile; fileRef = 0BBB82056DABF41EFD4166EC16334FF0 /* NSString+SLDSBorder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2FBEEAC6C7A8E82A0ECE8FFEF05E6560 /* NSString+SLDSIconCustom.m in Sources */ = {isa = PBXBuildFile; fileRef = 925B52942031430149F8CAFBA69AE057 /* NSString+SLDSIconCustom.m */; };
 		30A8F35FCAB29F5FBFC9F3F7E25A3B6B /* ServerTrustPolicy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A7A6D13C1CD55222A879DD65282D8AE /* ServerTrustPolicy.swift */; };
 		316EE18FE6EA8F56F19C31E1627351B9 /* SLDSFontSz.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F6B92412697F125331F7B3115B32DC7 /* SLDSFontSz.m */; };
-		321D50440A0D4BE549593A5D1032BC88 /* SalesforceSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BEE23EB5EBE170AA6656EFC6C119591E /* SalesforceSans-Bold.ttf */; };
 		330C05DF0603172454B2BA8A6BB72B42 /* SLDSIconAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 34586FB7C02AD6B20353D37C05840898 /* SLDSIconAction.m */; };
 		337A6F845C53A37B44461FD3D4915F60 /* UIImage+SLDSIconAction.h in Headers */ = {isa = PBXBuildFile; fileRef = BA7B07C351345CB95892C7EC594932DA /* UIImage+SLDSIconAction.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		34F2167264816F107345A194D3A0CD67 /* SLDSIconStandard.m in Sources */ = {isa = PBXBuildFile; fileRef = D83B33E965D1C168455C4E1E82A84221 /* SLDSIconStandard.m */; };
@@ -47,13 +45,12 @@
 		48E822707B5BF16792B35B8C88CC5BF4 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03400C0CD6ED48B34D5902A1A473F402 /* CoreText.framework */; };
 		4979148C60D80F5C0A2605AA025B6F9D /* SLDSIconStandard.h in Headers */ = {isa = PBXBuildFile; fileRef = 1C18E5DF0D1E3BA5C83AE9CCCAFCDCA9 /* SLDSIconStandard.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		49B5A3DF8F4ADAED6C1C9F413CBCF2E7 /* Pods-GoDutch-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B1CA9F1A8DEF480A1D0D517824A4ED4D /* Pods-GoDutch-dummy.m */; };
+		4A1032BD24C5ABD4C05FD2A1DD2DA0A3 /* SalesforceDesignSystemIconsCustom.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C4A530EDAB95F8ABD8DAE3AA7F30428F /* SalesforceDesignSystemIconsCustom.ttf */; };
 		4A9E409414BFB4189E7DCADF7F1F7885 /* SLDSSpacing.h in Headers */ = {isa = PBXBuildFile; fileRef = 43176C6856DCF05EAB181988ED5EAA7A /* SLDSSpacing.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4C6A2CC9F50D45BB82F6D590A1D177A5 /* NSString+SLDSIconUtility.h in Headers */ = {isa = PBXBuildFile; fileRef = 1126285B1C37B2410BE0E1C2EA155257 /* NSString+SLDSIconUtility.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4F527854EB826C79BD6A24AA90A3E6C2 /* SalesforceDesignSystemIconsCustom.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 30C8A124CADB906285ADDFF4D34A3FF1 /* SalesforceDesignSystemIconsCustom.ttf */; };
 		509074948F55AE16D149776EF7595DB8 /* UIColor+SLDSText.h in Headers */ = {isa = PBXBuildFile; fileRef = 412F591142DA9ABDB453823336D87686 /* UIColor+SLDSText.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		524C15D923B433836BB455575F94E3A3 /* DesignSystem-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EBC61A67BBB373A25735E1AE852E6FB /* DesignSystem-dummy.m */; };
 		5A380C50BE89919AEF0FCE70670D833F /* SLDSIconAction.h in Headers */ = {isa = PBXBuildFile; fileRef = C78A0567B38D75BBA0FFBE53E85085DE /* SLDSIconAction.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5A5EDEB189CAA186F8BD50C921CF93FB /* SalesforceSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8F3DFC053305DE9DC36BF7D0B4AE7161 /* SalesforceSans-Regular.ttf */; };
 		5AF0DC107F187F7A7F177BCE7DD8115D /* SLDSIconLabelAction.h in Headers */ = {isa = PBXBuildFile; fileRef = D7430886F8B01EA5ADEA6B7ADC03B8CE /* SLDSIconLabelAction.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5DF89EA7EA282EED807BD70422043F46 /* NSString+SLDSInput.m in Sources */ = {isa = PBXBuildFile; fileRef = FFDF55A74BA29B5BB91CA5F978B57624 /* NSString+SLDSInput.m */; };
 		62CF928767BEB40C1F04611F6AD3EC7B /* UIImage+SLDSIconStandard.h in Headers */ = {isa = PBXBuildFile; fileRef = AE4CC73A61993126A29C5DCFA2BE2D96 /* UIImage+SLDSIconStandard.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -69,6 +66,7 @@
 		7A7BE40CE7309770F6A64C000A7A61F3 /* SLDSIconUtility.m in Sources */ = {isa = PBXBuildFile; fileRef = EF2C2EB97DFBD2C3CF50BC780B04BE26 /* SLDSIconUtility.m */; };
 		7BD764F93E8C5904FCB0AC79E018974D /* NSString+SLDSMessaging.m in Sources */ = {isa = PBXBuildFile; fileRef = 1144440B6170CD613039327548D50D09 /* NSString+SLDSMessaging.m */; };
 		7C35A1B9B78195D9E42CEEB7EBD2DEF4 /* UIColor+SLDSMessaging.h in Headers */ = {isa = PBXBuildFile; fileRef = 34CCBFB81CE77EB0A5191487EB6B55CF /* UIColor+SLDSMessaging.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7C567E0E0E2F7E1996F1B97730834728 /* SalesforceSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4D8CFDAF52511A82C4C8F70EE8A819E5 /* SalesforceSans-Regular.ttf */; };
 		7D1F56FD143C23F7A3DF8F600E5517F3 /* SLDSColorAlias.h in Headers */ = {isa = PBXBuildFile; fileRef = 11E3C7FC75DE9719E8B124574FB6ECE3 /* SLDSColorAlias.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7D9A02668537F96CE50FF4E69C76214B /* UIImage+SLDSIconCustom.m in Sources */ = {isa = PBXBuildFile; fileRef = B761D2E6373F9CB7FD677D08D723DB7B /* UIImage+SLDSIconCustom.m */; };
 		802F741A69826148C092E8184CF7D7EB /* DesignSystem-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 06B7C473EE526ECCCB21C299F972C6E0 /* DesignSystem-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -80,6 +78,7 @@
 		8B97B24028576C4572F72F26FC1027E9 /* SLDSIconCustom.h in Headers */ = {isa = PBXBuildFile; fileRef = D934B0534863B726D3DC69FEC8D0D3DF /* SLDSIconCustom.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8D8E4507271EF515BE92583D606B1B1E /* NSString+SLDSIconAction.h in Headers */ = {isa = PBXBuildFile; fileRef = B71A70B187E3242228221FEB16B39220 /* NSString+SLDSIconAction.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9077ECA2FA7B9C5D73365490A3D8898F /* Download.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA50255881B15119369FB70C3BFB6F29 /* Download.swift */; };
+		977AD5AF271B5777C4A50DB542AFF79C /* en.lproj in Resources */ = {isa = PBXBuildFile; fileRef = F7731B6B3E1AF20CBA28EB3D6198D26E /* en.lproj */; };
 		993646E296DB7F8059FCC3F20D567F94 /* SLDSColorAlias.m in Sources */ = {isa = PBXBuildFile; fileRef = FA70191AE4D21FE8DFFEE7D8BFA1432A /* SLDSColorAlias.m */; };
 		9D978FC8D6479BA19E1D657EB5B2764E /* UIColor+SLDSBackground.h in Headers */ = {isa = PBXBuildFile; fileRef = CA2B9235930FA0EF4F8AE7FCB0C466AE /* UIColor+SLDSBackground.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9F3129921740F01F9F29BFC424ED1847 /* UIColor+SLDSText.m in Sources */ = {isa = PBXBuildFile; fileRef = 244B00D432D47D62EA648B7E1D09DE3A /* UIColor+SLDSText.m */; };
@@ -89,8 +88,8 @@
 		A8B5EDB7371475F62767B297B1A10CDE /* ParameterEncoding.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5E016A30872C004960AEE775BA7CE52 /* ParameterEncoding.swift */; };
 		AA3EF5FB49E1FD24962F8714D29E3A3D /* NSString+SLDSIconAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9C6B487FDCBF3C645853CD3F488541 /* NSString+SLDSIconAction.m */; };
 		AD30887E022FC8171AAE2E134ACE6671 /* NSString+SLDSMessaging.h in Headers */ = {isa = PBXBuildFile; fileRef = 37E0A56EDB5B491D940DA8947D1367CF /* NSString+SLDSMessaging.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		ADA20EAA09DDAEEB74F432C3FA0C08DE /* SalesforceDesignSystemIconsUtility.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D506695CCEB6F99DCDEC4DAA346C0EC5 /* SalesforceDesignSystemIconsUtility.ttf */; };
 		B0261308B1169D8DC435A1E0EEF3A22D /* DesignSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = FCF41C14768B11D5B1A5792B6FB2F61F /* DesignSystem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B101B364E6BBCB184E2EAEC9C12B5855 /* SalesforceDesignSystemIconsAction.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C3A88ECED80122F0CA54ECEE99AE05FE /* SalesforceDesignSystemIconsAction.ttf */; };
 		B19ED9FEA137555C40848BEFD7F94A4F /* SLDSIconLabelStandard.h in Headers */ = {isa = PBXBuildFile; fileRef = 02ECE9EA1A0E0C5DB75D06E79CAFE210 /* SLDSIconLabelStandard.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B4D3CDC77B779944CF3568A8EC2984B1 /* SLDSIconLabelAction.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE35DADF5C4A9FEE7228F4960489C80 /* SLDSIconLabelAction.m */; };
 		B6DB216AD30C46442EB008885BB28561 /* SLDSSizing.h in Headers */ = {isa = PBXBuildFile; fileRef = 84309FE58D383D120F9B0BE7920E68E8 /* SLDSSizing.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -105,10 +104,11 @@
 		BFB05AFAA21CC66F9B6DAA48AE9FCC8B /* NSString+SLDSInput.h in Headers */ = {isa = PBXBuildFile; fileRef = 496C233A850159445BB121070B88F9B5 /* NSString+SLDSInput.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C33D35263E642015F946CE0619B069C0 /* NSString+SLDSText.m in Sources */ = {isa = PBXBuildFile; fileRef = 429139AE8BD3EA28409B22F6F5535E98 /* NSString+SLDSText.m */; };
 		C4A86860709D43796BBAB81A1BDBFB86 /* SLDSColorBrdr.m in Sources */ = {isa = PBXBuildFile; fileRef = D500667DED455CCA5318D7DB954EB192 /* SLDSColorBrdr.m */; };
+		C4EDB763C70626DE6589D36827790182 /* SalesforceDesignSystemIconsStandard.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D4626A4B1A0660A4AD4E2D8BCA3506E7 /* SalesforceDesignSystemIconsStandard.ttf */; };
 		C7C5912F0136EBDF2BDBFCC54AFC9F54 /* UIColor+SLDSMessaging.m in Sources */ = {isa = PBXBuildFile; fileRef = DED30903B12F7EE2BD83E276F4726406 /* UIColor+SLDSMessaging.m */; };
 		C837924F4FE30F0C05BCC2CAF88293DC /* SLDSIconLabelStandard.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E05D874CC3070FA72FDA38F6F983CE4 /* SLDSIconLabelStandard.m */; };
-		CFF76E8C03AEC5B96172B174262415CC /* SalesforceDesignSystemIconsStandard.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CDA5A9F70CE9BF24B75084BCC768BF0B /* SalesforceDesignSystemIconsStandard.ttf */; };
 		D042A27F2CB9B5880982D3A37D834EE0 /* UIColor+SLDSButton.h in Headers */ = {isa = PBXBuildFile; fileRef = A251B9E9D045A794539804C3AA9019F6 /* UIColor+SLDSButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D255731D826BE79256C6C88A965D81F5 /* SalesforceSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 037DC1A63ADEBDE04197C27D10F652D3 /* SalesforceSans-Bold.ttf */; };
 		D39B20327B1DAF6D8753ED5685DDE6DC /* MultipartFormData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B89D98BA1DC4672CD65224592969C0 /* MultipartFormData.swift */; };
 		D7637C7623E678E95A97F6E000F47D77 /* SLDSIconLabelCustom.h in Headers */ = {isa = PBXBuildFile; fileRef = 369F0080515DFB284BC67BCE2C73BC9F /* SLDSIconLabelCustom.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D8136D3B59D4753690000387A8082B54 /* Alamofire-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1952CDB11BC16FD47A06E721BA53DFDB /* Alamofire-dummy.m */; };
@@ -126,13 +126,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		0199397E1D2C16BA007FBE6C /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 0199397A1D2C16BA007FBE6C /* GoDutch.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 01928C6C1D21E1780031195F;
-			remoteInfo = GoDutch;
-		};
 		B20E0D18EA1934A2555D870A281B4FAA /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
@@ -158,12 +151,13 @@
 
 /* Begin PBXFileReference section */
 		00C7326497BFC0F359A4794A86695FA6 /* SLDSIconCustom.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SLDSIconCustom.m; path = SalesforceDesignSystem/Generated/SLDSIconCustom.m; sourceTree = "<group>"; };
-		019939771D2C15C3007FBE6C /* en */ = {isa = PBXFileReference; lastKnownFileType = file; name = en; path = "en.lproj/SalesforceSans-Light.ttf"; sourceTree = "<group>"; };
-		0199397A1D2C16BA007FBE6C /* GoDutch.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = GoDutch.xcodeproj; path = ../../GoDutch.xcodeproj; sourceTree = "<group>"; };
 		02ECE9EA1A0E0C5DB75D06E79CAFE210 /* SLDSIconLabelStandard.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SLDSIconLabelStandard.h; path = SalesforceDesignSystem/Generated/SLDSIconLabelStandard.h; sourceTree = "<group>"; };
 		03400C0CD6ED48B34D5902A1A473F402 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/CoreText.framework; sourceTree = DEVELOPER_DIR; };
 		034860CDDBD2EF257929117B2371C8D8 /* NSString+SLDSButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+SLDSButton.m"; path = "SalesforceDesignSystem/NSString+SLDSButton.m"; sourceTree = "<group>"; };
+		037DC1A63ADEBDE04197C27D10F652D3 /* SalesforceSans-Bold.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = "SalesforceSans-Bold.ttf"; path = "SalesforceDesignSystem.bundle/SalesforceSans-Bold.ttf"; sourceTree = "<group>"; };
 		06B7C473EE526ECCCB21C299F972C6E0 /* DesignSystem-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DesignSystem-umbrella.h"; sourceTree = "<group>"; };
+		09B768B8435BEFC8BC95C39ECCE34978 /* SalesforceDesignSystemIconsUtility.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = SalesforceDesignSystemIconsUtility.ttf; path = SalesforceDesignSystem.bundle/SalesforceDesignSystemIconsUtility.ttf; sourceTree = "<group>"; };
+		0A7A1495EAA1B24808E09D9DB29A6DA6 /* License-for-SalesforceDesignSystemIcons.txt */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = "License-for-SalesforceDesignSystemIcons.txt"; path = "SalesforceDesignSystem.bundle/License-for-SalesforceDesignSystemIcons.txt"; sourceTree = "<group>"; };
 		0AC5EAC4690E1D00E7BB57A29984D371 /* Validation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Validation.swift; path = Source/Validation.swift; sourceTree = "<group>"; };
 		0BBB82056DABF41EFD4166EC16334FF0 /* NSString+SLDSBorder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+SLDSBorder.h"; path = "SalesforceDesignSystem/NSString+SLDSBorder.h"; sourceTree = "<group>"; };
 		0BDF45700DCEA7BCA724FAC639B4E3AF /* SLDSFont.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SLDSFont.m; path = SalesforceDesignSystem/Generated/SLDSFont.m; sourceTree = "<group>"; };
@@ -186,12 +180,9 @@
 		24BE901AC94D758C9122527193D398E7 /* Alamofire-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Alamofire-umbrella.h"; sourceTree = "<group>"; };
 		27EF25E52C59184673224E8587FCA437 /* UIColor+SLDSInput.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIColor+SLDSInput.h"; path = "SalesforceDesignSystem/UIColor+SLDSInput.h"; sourceTree = "<group>"; };
 		285B7E4D0486A3B275653C1C9793315F /* Pods-GoDutch.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-GoDutch.modulemap"; sourceTree = "<group>"; };
-		2C5AC77BDF80CB4A1626479F900FA732 /* License-for-SalesforceSans-font.txt */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = "License-for-SalesforceSans-font.txt"; path = "SalesforceDesignSystem.bundle/License-for-SalesforceSans-font.txt"; sourceTree = "<group>"; };
 		2EBC61A67BBB373A25735E1AE852E6FB /* DesignSystem-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "DesignSystem-dummy.m"; sourceTree = "<group>"; };
-		30C8A124CADB906285ADDFF4D34A3FF1 /* SalesforceDesignSystemIconsCustom.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = SalesforceDesignSystemIconsCustom.ttf; path = SalesforceDesignSystem.bundle/SalesforceDesignSystemIconsCustom.ttf; sourceTree = "<group>"; };
 		34586FB7C02AD6B20353D37C05840898 /* SLDSIconAction.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SLDSIconAction.m; path = SalesforceDesignSystem/Generated/SLDSIconAction.m; sourceTree = "<group>"; };
 		34CCBFB81CE77EB0A5191487EB6B55CF /* UIColor+SLDSMessaging.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIColor+SLDSMessaging.h"; path = "SalesforceDesignSystem/UIColor+SLDSMessaging.h"; sourceTree = "<group>"; };
-		35C9805AD64BBCC757CD3741537B80F1 /* SalesforceDesignSystemIconsAction.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = SalesforceDesignSystemIconsAction.ttf; path = SalesforceDesignSystem.bundle/SalesforceDesignSystemIconsAction.ttf; sourceTree = "<group>"; };
 		369F0080515DFB284BC67BCE2C73BC9F /* SLDSIconLabelCustom.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SLDSIconLabelCustom.h; path = SalesforceDesignSystem/Generated/SLDSIconLabelCustom.h; sourceTree = "<group>"; };
 		36AEF61D43D41269BA24FCD70FB8BE98 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		37E0A56EDB5B491D940DA8947D1367CF /* NSString+SLDSMessaging.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+SLDSMessaging.h"; path = "SalesforceDesignSystem/NSString+SLDSMessaging.h"; sourceTree = "<group>"; };
@@ -207,6 +198,7 @@
 		4BFC059A731C696C4F652B71421C839B /* Pods_GoDutch.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GoDutch.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C9C6B487FDCBF3C645853CD3F488541 /* NSString+SLDSIconAction.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+SLDSIconAction.m"; path = "SalesforceDesignSystem/NSString+SLDSIconAction.m"; sourceTree = "<group>"; };
 		4D620F0CAA8184761D3017FEBF4BF980 /* UIColor+SLDSInput.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+SLDSInput.m"; path = "SalesforceDesignSystem/UIColor+SLDSInput.m"; sourceTree = "<group>"; };
+		4D8CFDAF52511A82C4C8F70EE8A819E5 /* SalesforceSans-Regular.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = "SalesforceSans-Regular.ttf"; path = "SalesforceDesignSystem.bundle/SalesforceSans-Regular.ttf"; sourceTree = "<group>"; };
 		4FAB657D44B45D68DC51822FFD5116FC /* NSString+SLDSIconCustom.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+SLDSIconCustom.h"; path = "SalesforceDesignSystem/NSString+SLDSIconCustom.h"; sourceTree = "<group>"; };
 		5358AB577AF6CD0209112BF3D2B9806B /* Pods-GoDutch.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GoDutch.release.xcconfig"; sourceTree = "<group>"; };
 		53E0158344E130E1F572C83FA075ACDD /* Pods-GoDutch.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GoDutch.debug.xcconfig"; sourceTree = "<group>"; };
@@ -224,7 +216,7 @@
 		7B0DAB75AEDDC02AF02BC1AF5053B4AF /* SLDSColorBrdr.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SLDSColorBrdr.h; path = SalesforceDesignSystem/Generated/SLDSColorBrdr.h; sourceTree = "<group>"; };
 		7E41C24A725C28F7257E51C45044FA20 /* Pods-GoDutch-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-GoDutch-acknowledgements.markdown"; sourceTree = "<group>"; };
 		84309FE58D383D120F9B0BE7920E68E8 /* SLDSSizing.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SLDSSizing.h; path = SalesforceDesignSystem/Generated/SLDSSizing.h; sourceTree = "<group>"; };
-		8F3DFC053305DE9DC36BF7D0B4AE7161 /* SalesforceSans-Regular.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = "SalesforceSans-Regular.ttf"; path = "SalesforceDesignSystem.bundle/SalesforceSans-Regular.ttf"; sourceTree = "<group>"; };
+		8CF8E4D27210FB73A8054488C7C6689F /* License-for-SalesforceSans-font.txt */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = "License-for-SalesforceSans-font.txt"; path = "SalesforceDesignSystem.bundle/License-for-SalesforceSans-font.txt"; sourceTree = "<group>"; };
 		922B0B542107716163C97BBB600A086E /* UIImage+SLDSIconUtility.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+SLDSIconUtility.m"; path = "SalesforceDesignSystem/UIImage+SLDSIconUtility.m"; sourceTree = "<group>"; };
 		925B52942031430149F8CAFBA69AE057 /* NSString+SLDSIconCustom.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+SLDSIconCustom.m"; path = "SalesforceDesignSystem/NSString+SLDSIconCustom.m"; sourceTree = "<group>"; };
 		92AB6CD200E4129896CB79219F5606C6 /* SalesforceDesignSystemExtended.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SalesforceDesignSystemExtended.h; path = SalesforceDesignSystem/SalesforceDesignSystemExtended.h; sourceTree = "<group>"; };
@@ -252,24 +244,24 @@
 		B869179E2AFBC6840A2D9474BC8EB2B8 /* SLDSFont.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SLDSFont.h; path = SalesforceDesignSystem/Generated/SLDSFont.h; sourceTree = "<group>"; };
 		B97AA152B698A8A5489DC9FEBD6F0E20 /* Result.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Result.swift; path = Source/Result.swift; sourceTree = "<group>"; };
 		BA7B07C351345CB95892C7EC594932DA /* UIImage+SLDSIconAction.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+SLDSIconAction.h"; path = "SalesforceDesignSystem/UIImage+SLDSIconAction.h"; sourceTree = "<group>"; };
-		BEE23EB5EBE170AA6656EFC6C119591E /* SalesforceSans-Bold.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = "SalesforceSans-Bold.ttf"; path = "SalesforceDesignSystem.bundle/SalesforceSans-Bold.ttf"; sourceTree = "<group>"; };
 		C148AAFF0CADC779B62E47A2889027C3 /* SLDSColorInpt.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SLDSColorInpt.h; path = SalesforceDesignSystem/Generated/SLDSColorInpt.h; sourceTree = "<group>"; };
 		C1B1A2B0821C80EA9994780CAAC5410F /* Alamofire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Alamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1C950E8147A58EC7BDC4849935B7C99 /* Manager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Manager.swift; path = Source/Manager.swift; sourceTree = "<group>"; };
 		C24074E8EA9F2BD2C9AE838D63FCF597 /* UIColor+SLDSBorder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+SLDSBorder.m"; path = "SalesforceDesignSystem/UIColor+SLDSBorder.m"; sourceTree = "<group>"; };
 		C2A9D3B0B6F95916CEDBAD1B598EB530 /* UIImage+SLDSIconCustom.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+SLDSIconCustom.h"; path = "SalesforceDesignSystem/UIImage+SLDSIconCustom.h"; sourceTree = "<group>"; };
+		C3A88ECED80122F0CA54ECEE99AE05FE /* SalesforceDesignSystemIconsAction.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = SalesforceDesignSystemIconsAction.ttf; path = SalesforceDesignSystem.bundle/SalesforceDesignSystemIconsAction.ttf; sourceTree = "<group>"; };
 		C46573C8916D1165B1096A3824FE9F7F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C4A530EDAB95F8ABD8DAE3AA7F30428F /* SalesforceDesignSystemIconsCustom.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = SalesforceDesignSystemIconsCustom.ttf; path = SalesforceDesignSystem.bundle/SalesforceDesignSystemIconsCustom.ttf; sourceTree = "<group>"; };
 		C52FCC6C92310D7BCCAF0E3FFE647A3D /* UIColor+SLDSBackground.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+SLDSBackground.m"; path = "SalesforceDesignSystem/UIColor+SLDSBackground.m"; sourceTree = "<group>"; };
 		C78A0567B38D75BBA0FFBE53E85085DE /* SLDSIconAction.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SLDSIconAction.h; path = SalesforceDesignSystem/Generated/SLDSIconAction.h; sourceTree = "<group>"; };
 		CA2B9235930FA0EF4F8AE7FCB0C466AE /* UIColor+SLDSBackground.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIColor+SLDSBackground.h"; path = "SalesforceDesignSystem/UIColor+SLDSBackground.h"; sourceTree = "<group>"; };
 		CA50255881B15119369FB70C3BFB6F29 /* Download.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Download.swift; path = Source/Download.swift; sourceTree = "<group>"; };
-		CDA5A9F70CE9BF24B75084BCC768BF0B /* SalesforceDesignSystemIconsStandard.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = SalesforceDesignSystemIconsStandard.ttf; path = SalesforceDesignSystem.bundle/SalesforceDesignSystemIconsStandard.ttf; sourceTree = "<group>"; };
 		D2B22AB95BFDE7673031563D6175C24D /* DesignSystem.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = DesignSystem.modulemap; sourceTree = "<group>"; };
 		D30C9E6A25F3DCE3237359B333B9960A /* SLDSColorInpt.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SLDSColorInpt.m; path = SalesforceDesignSystem/Generated/SLDSColorInpt.m; sourceTree = "<group>"; };
 		D34F9405AFAA2FC045DA05E14E4FFFCB /* Error.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Error.swift; path = Source/Error.swift; sourceTree = "<group>"; };
+		D4626A4B1A0660A4AD4E2D8BCA3506E7 /* SalesforceDesignSystemIconsStandard.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = SalesforceDesignSystemIconsStandard.ttf; path = SalesforceDesignSystem.bundle/SalesforceDesignSystemIconsStandard.ttf; sourceTree = "<group>"; };
 		D4DF6477D71020039ADDF27CD642DC9D /* ResourceBundle-SalesforceDesignSystem-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-SalesforceDesignSystem-Info.plist"; sourceTree = "<group>"; };
 		D500667DED455CCA5318D7DB954EB192 /* SLDSColorBrdr.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SLDSColorBrdr.m; path = SalesforceDesignSystem/Generated/SLDSColorBrdr.m; sourceTree = "<group>"; };
-		D506695CCEB6F99DCDEC4DAA346C0EC5 /* SalesforceDesignSystemIconsUtility.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = SalesforceDesignSystemIconsUtility.ttf; path = SalesforceDesignSystem.bundle/SalesforceDesignSystemIconsUtility.ttf; sourceTree = "<group>"; };
 		D6656B9414640EFE6947FA425B22F2ED /* Alamofire.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Alamofire.xcconfig; sourceTree = "<group>"; };
 		D7430886F8B01EA5ADEA6B7ADC03B8CE /* SLDSIconLabelAction.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SLDSIconLabelAction.h; path = SalesforceDesignSystem/Generated/SLDSIconLabelAction.h; sourceTree = "<group>"; };
 		D83B33E965D1C168455C4E1E82A84221 /* SLDSIconStandard.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SLDSIconStandard.m; path = SalesforceDesignSystem/Generated/SLDSIconStandard.m; sourceTree = "<group>"; };
@@ -279,13 +271,13 @@
 		DCD62FC91F2B033F339DDBBCBDF19892 /* UIFont+SLDSFont.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIFont+SLDSFont.h"; path = "SalesforceDesignSystem/UIFont+SLDSFont.h"; sourceTree = "<group>"; };
 		DED30903B12F7EE2BD83E276F4726406 /* UIColor+SLDSMessaging.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+SLDSMessaging.m"; path = "SalesforceDesignSystem/UIColor+SLDSMessaging.m"; sourceTree = "<group>"; };
 		E0E4A1DF4388921702C768F603A9AAF4 /* NSString+SLDSIconUtility.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+SLDSIconUtility.m"; path = "SalesforceDesignSystem/NSString+SLDSIconUtility.m"; sourceTree = "<group>"; };
-		E60CCD6B9CEF6B48AA15A493F081DAF1 /* License-for-SalesforceDesignSystemIcons.txt */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = "License-for-SalesforceDesignSystemIcons.txt"; path = "SalesforceDesignSystem.bundle/License-for-SalesforceDesignSystemIcons.txt"; sourceTree = "<group>"; };
 		E7B89D98BA1DC4672CD65224592969C0 /* MultipartFormData.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MultipartFormData.swift; path = Source/MultipartFormData.swift; sourceTree = "<group>"; };
 		EA15B2DC1DCE59BF9626AC3089473E6B /* Alamofire-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Alamofire-prefix.pch"; sourceTree = "<group>"; };
 		EF2C2EB97DFBD2C3CF50BC780B04BE26 /* SLDSIconUtility.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SLDSIconUtility.m; path = SalesforceDesignSystem/Generated/SLDSIconUtility.m; sourceTree = "<group>"; };
 		F01020EAD42F823F08A742D0B3DDD573 /* SLDSFontSz.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SLDSFontSz.h; path = SalesforceDesignSystem/Generated/SLDSFontSz.h; sourceTree = "<group>"; };
 		F088732B46AD4208B8F93BCED1B26381 /* SalesforceDesignSystem.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SalesforceDesignSystem.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5E016A30872C004960AEE775BA7CE52 /* ParameterEncoding.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ParameterEncoding.swift; path = Source/ParameterEncoding.swift; sourceTree = "<group>"; };
+		F7731B6B3E1AF20CBA28EB3D6198D26E /* en.lproj */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = en.lproj; path = SalesforceDesignSystem.bundle/en.lproj; sourceTree = "<group>"; };
 		F7C4D4F20AF92EBB86F2844C150AEB0C /* SLDSColorMsg.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SLDSColorMsg.h; path = SalesforceDesignSystem/Generated/SLDSColorMsg.h; sourceTree = "<group>"; };
 		F92995DF7F85D60CBA9670192B74F18D /* UIColor+SLDSButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+SLDSButton.m"; path = "SalesforceDesignSystem/UIColor+SLDSButton.m"; sourceTree = "<group>"; };
 		FA70191AE4D21FE8DFFEE7D8BFA1432A /* SLDSColorAlias.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SLDSColorAlias.m; path = SalesforceDesignSystem/Generated/SLDSColorAlias.m; sourceTree = "<group>"; };
@@ -332,14 +324,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0199397B1D2C16BA007FBE6C /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				0199397F1D2C16BA007FBE6C /* GoDutch.app */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 		119D7D439DFEA95D5C6B2E6AB322724A /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -463,7 +447,7 @@
 				ACC373028BFE957D54DF3189480DE3C6 /* UIImage+SLDSIconStandard.m */,
 				B649648C43F6F1D6BF6B1984D3EEBCFB /* UIImage+SLDSIconUtility.h */,
 				922B0B542107716163C97BBB600A086E /* UIImage+SLDSIconUtility.m */,
-				E8DCFEFBA0DC1B84075D40B8F2E121E4 /* Resources */,
+				FAACE29F4FEE2BE9254A0CB46A0E192D /* Resources */,
 				924E9DE9EF02E9A90DEB59D787BBE8CC /* Support Files */,
 			);
 			path = DesignSystem;
@@ -556,19 +540,18 @@
 			path = "../Target Support Files/Alamofire";
 			sourceTree = "<group>";
 		};
-		E8DCFEFBA0DC1B84075D40B8F2E121E4 /* Resources */ = {
+		FAACE29F4FEE2BE9254A0CB46A0E192D /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				E60CCD6B9CEF6B48AA15A493F081DAF1 /* License-for-SalesforceDesignSystemIcons.txt */,
-				2C5AC77BDF80CB4A1626479F900FA732 /* License-for-SalesforceSans-font.txt */,
-				35C9805AD64BBCC757CD3741537B80F1 /* SalesforceDesignSystemIconsAction.ttf */,
-				30C8A124CADB906285ADDFF4D34A3FF1 /* SalesforceDesignSystemIconsCustom.ttf */,
-				CDA5A9F70CE9BF24B75084BCC768BF0B /* SalesforceDesignSystemIconsStandard.ttf */,
-				D506695CCEB6F99DCDEC4DAA346C0EC5 /* SalesforceDesignSystemIconsUtility.ttf */,
-				BEE23EB5EBE170AA6656EFC6C119591E /* SalesforceSans-Bold.ttf */,
-				019939781D2C15C3007FBE6C /* SalesforceSans-Light.ttf */,
-				8F3DFC053305DE9DC36BF7D0B4AE7161 /* SalesforceSans-Regular.ttf */,
-				0199397A1D2C16BA007FBE6C /* GoDutch.xcodeproj */,
+				F7731B6B3E1AF20CBA28EB3D6198D26E /* en.lproj */,
+				0A7A1495EAA1B24808E09D9DB29A6DA6 /* License-for-SalesforceDesignSystemIcons.txt */,
+				8CF8E4D27210FB73A8054488C7C6689F /* License-for-SalesforceSans-font.txt */,
+				C3A88ECED80122F0CA54ECEE99AE05FE /* SalesforceDesignSystemIconsAction.ttf */,
+				C4A530EDAB95F8ABD8DAE3AA7F30428F /* SalesforceDesignSystemIconsCustom.ttf */,
+				D4626A4B1A0660A4AD4E2D8BCA3506E7 /* SalesforceDesignSystemIconsStandard.ttf */,
+				09B768B8435BEFC8BC95C39ECCE34978 /* SalesforceDesignSystemIconsUtility.ttf */,
+				037DC1A63ADEBDE04197C27D10F652D3 /* SalesforceSans-Bold.ttf */,
+				4D8CFDAF52511A82C4C8F70EE8A819E5 /* SalesforceSans-Regular.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -670,7 +653,7 @@
 			buildPhases = (
 				1A257CB77C7D2C58FF899641080D4AEB /* Sources */,
 				02D274306F79BAE86C0819A4B7A5735D /* Frameworks */,
-				9F1A909D5C8DB24C58C318610E5F0BA7 /* Resources */,
+				0834BCA9830DCB149A95491F6A9EC1F8 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -738,12 +721,6 @@
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
 			productRefGroup = 387A476FBC57FC0BFB9197E486FD0376 /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 0199397B1D2C16BA007FBE6C /* Products */;
-					ProjectRef = 0199397A1D2C16BA007FBE6C /* GoDutch.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				4B2F30D90D85A544E9EFE2A49D392C25 /* Alamofire */,
@@ -754,38 +731,28 @@
 		};
 /* End PBXProject section */
 
-/* Begin PBXReferenceProxy section */
-		0199397F1D2C16BA007FBE6C /* GoDutch.app */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.application;
-			path = GoDutch.app;
-			remoteRef = 0199397E1D2C16BA007FBE6C /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-/* End PBXReferenceProxy section */
-
 /* Begin PBXResourcesBuildPhase section */
+		0834BCA9830DCB149A95491F6A9EC1F8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				977AD5AF271B5777C4A50DB542AFF79C /* en.lproj in Resources */,
+				031E14E76DC41991CF56112E4740CCF0 /* License-for-SalesforceDesignSystemIcons.txt in Resources */,
+				0212416941DB32D47CCCE97CA1261837 /* License-for-SalesforceSans-font.txt in Resources */,
+				B101B364E6BBCB184E2EAEC9C12B5855 /* SalesforceDesignSystemIconsAction.ttf in Resources */,
+				4A1032BD24C5ABD4C05FD2A1DD2DA0A3 /* SalesforceDesignSystemIconsCustom.ttf in Resources */,
+				C4EDB763C70626DE6589D36827790182 /* SalesforceDesignSystemIconsStandard.ttf in Resources */,
+				0D0B596606EB2C0AB65A48C994F7CDA8 /* SalesforceDesignSystemIconsUtility.ttf in Resources */,
+				D255731D826BE79256C6C88A965D81F5 /* SalesforceSans-Bold.ttf in Resources */,
+				7C567E0E0E2F7E1996F1B97730834728 /* SalesforceSans-Regular.ttf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		6948FC8F51293C517CCAD1A7BC88B9A4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				704F872ED4EB10B0580A1BBD95597EF3 /* SalesforceDesignSystem.bundle in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		9F1A909D5C8DB24C58C318610E5F0BA7 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				13C2B5FA7F71A52AECFDDBBCFED23068 /* License-for-SalesforceDesignSystemIcons.txt in Resources */,
-				21D6DAD55BFEC5C3518A390035D26E3A /* License-for-SalesforceSans-font.txt in Resources */,
-				28B433CF94373FA1AA6AE25E50065CF1 /* SalesforceDesignSystemIconsAction.ttf in Resources */,
-				4F527854EB826C79BD6A24AA90A3E6C2 /* SalesforceDesignSystemIconsCustom.ttf in Resources */,
-				CFF76E8C03AEC5B96172B174262415CC /* SalesforceDesignSystemIconsStandard.ttf in Resources */,
-				ADA20EAA09DDAEEB74F432C3FA0C08DE /* SalesforceDesignSystemIconsUtility.ttf in Resources */,
-				321D50440A0D4BE549593A5D1032BC88 /* SalesforceSans-Bold.ttf in Resources */,
-				019939761D2C15C3007FBE6C /* SalesforceSans-Light.ttf in Resources */,
-				5A5EDEB189CAA186F8BD50C921CF93FB /* SalesforceSans-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -896,18 +863,6 @@
 			targetProxy = B20E0D18EA1934A2555D870A281B4FAA /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		019939781D2C15C3007FBE6C /* SalesforceSans-Light.ttf */ = {
-			isa = PBXVariantGroup;
-			children = (
-				019939771D2C15C3007FBE6C /* en */,
-			);
-			name = "SalesforceSans-Light.ttf";
-			path = SalesforceDesignSystem.bundle;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		2CB1BA859AD62CB956AC39F8333EE551 /* Release */ = {
